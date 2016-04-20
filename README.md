@@ -1,4 +1,4 @@
 # CodeSnippets
 我的代码片段
 
-## 常用代码片段备份
+#### 代码片段路径 ： ~/Library/Developer/Xcode/UserData/CodeSnippets 
