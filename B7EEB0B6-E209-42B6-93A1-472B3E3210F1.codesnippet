@@ -3,19 +3,27 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@finalNote</string>
+	<string>@tableviewDataSource</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>//!&lt; &lt;#注释#&gt;</string>
+	<string>- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath {
+    &lt;#JDTableViewCell#&gt; *cell =[&lt;#JDTableViewCell#&gt; cellWithTableView:tableView];
+    return cell;
+}
+
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section {
+    return &lt;#num#&gt;;
+}
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>052736BF-064D-49A8-A746-2283A8ECE65B</string>
+	<string>B7EEB0B6-E209-42B6-93A1-472B3E3210F1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>行尾注释</string>
+	<string>tableView</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

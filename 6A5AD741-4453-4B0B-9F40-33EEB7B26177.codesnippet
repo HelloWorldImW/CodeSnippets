@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@finalNote</string>
+	<string>@todo</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>//!&lt; &lt;#注释#&gt;</string>
+	<string>// TODO: &lt;##&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>052736BF-064D-49A8-A746-2283A8ECE65B</string>
+	<string>6A5AD741-4453-4B0B-9F40-33EEB7B26177</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>行尾注释</string>
+	<string>ToDo</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

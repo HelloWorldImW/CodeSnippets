@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@finalNote</string>
+	<string>@warning</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>//!&lt; &lt;#注释#&gt;</string>
+	<string>#warning TODO -&gt;"&lt;#todo#&gt; the code" TAG -&gt;"DWTag_&lt;#tag#&gt;"  DATE -&gt;"&lt;#MM#&gt;.&lt;#DD#&gt;"</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>052736BF-064D-49A8-A746-2283A8ECE65B</string>
+	<string>3FF46761-1D79-4C9F-B6CF-1E5F768209FF</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>行尾注释</string>
+	<string>警告</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

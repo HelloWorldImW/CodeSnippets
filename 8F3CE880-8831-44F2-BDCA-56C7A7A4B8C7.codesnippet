@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>@finalNote</string>
+	<string>@end</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>//!&lt; &lt;#注释#&gt;</string>
+	<string>/// add by 王至皓 2016-&lt;#MM#&gt;-&lt;#DD#&gt; end</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>052736BF-064D-49A8-A746-2283A8ECE65B</string>
+	<string>8F3CE880-8831-44F2-BDCA-56C7A7A4B8C7</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>行尾注释</string>
+	<string>责任注释结束</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
