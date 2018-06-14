@@ -3,19 +3,20 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>retain</string>
+	<string>private methods</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, retain) &lt;#NSString#&gt; *&lt;#name#&gt;</string>
+	<string>#pragma mark - Private Methods
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F1A6D828-A25D-4DB6-8697-738D15EC5155</string>
+	<string>5EBAB9B5-2928-415C-BA27-F2DFA636B7F2</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>retain</string>
+	<string>Private Methods</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
